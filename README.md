@@ -9,6 +9,23 @@ A simple transaction page that displays list of transactions (mock data) and all
 - Node.js 18+
 - Yarn
 
+## PREVIEW 
+
+## ALL TRANSACTIONS (DEFAULT)
+<img width="832" height="965" alt="Screenshot 2026-01-06 at 23 01 50" src="https://github.com/user-attachments/assets/e2b366b3-fd73-498f-b2a6-a42b326f58dc" />
+
+## FILTERED TRANSACTIONS
+
+#### SUCCESS
+<img width="835" height="969" alt="Screenshot 2026-01-06 at 23 02 05" src="https://github.com/user-attachments/assets/a87ab842-0a59-4e37-bb7b-49406612256f" />
+
+#### FAILED
+<img width="832" height="960" alt="Screenshot 2026-01-06 at 23 02 16" src="https://github.com/user-attachments/assets/7eb6d55e-165d-4e32-8b97-7b5a8d55d55e" />
+
+#### PENDING
+<img width="832" height="962" alt="Screenshot 2026-01-06 at 23 02 27" src="https://github.com/user-attachments/assets/d8840b56-f719-450c-9300-962833bc5365" />
+
+
 ### INSTALL & RUN
 
 ```bash
