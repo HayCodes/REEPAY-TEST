@@ -10,20 +10,7 @@ A simple transaction page that displays list of transactions (mock data) and all
 - Yarn
 
 ## PREVIEW 
-
-## ALL TRANSACTIONS (DEFAULT)
-<img width="832" height="965" alt="Screenshot 2026-01-06 at 23 01 50" src="https://github.com/user-attachments/assets/e2b366b3-fd73-498f-b2a6-a42b326f58dc" />
-
-## FILTERED TRANSACTIONS
-
-#### SUCCESS
-<img width="835" height="969" alt="Screenshot 2026-01-06 at 23 02 05" src="https://github.com/user-attachments/assets/a87ab842-0a59-4e37-bb7b-49406612256f" />
-
-#### FAILED
-<img width="832" height="960" alt="Screenshot 2026-01-06 at 23 02 16" src="https://github.com/user-attachments/assets/7eb6d55e-165d-4e32-8b97-7b5a8d55d55e" />
-
-#### PENDING
-<img width="832" height="962" alt="Screenshot 2026-01-06 at 23 02 27" src="https://github.com/user-attachments/assets/d8840b56-f719-450c-9300-962833bc5365" />
+<div style="position: relative; padding-bottom: 62.57242178447277%; height: 0;"><iframe src="https://www.loom.com/embed/b417406d91e84f18918cf9d4fd1d9c51" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### INSTALL & RUN
@@ -33,7 +20,7 @@ A simple transaction page that displays list of transactions (mock data) and all
 yarn install
 
 # Run dev server
-yarn run dev
+yarn run dev or yarn dev
 ```
 
 ## MY APPROACH
