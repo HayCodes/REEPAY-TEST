@@ -10,7 +10,8 @@ A simple transaction page that displays list of transactions (mock data) and all
 - Yarn
 
 ## PREVIEW 
-<div style="position: relative; padding-bottom: 62.57242178447277%; height: 0;"><iframe src="https://www.loom.com/embed/b417406d91e84f18918cf9d4fd1d9c51" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://github.com/user-attachments/assets/2deac189-e91e-4cb5-97b0-9b5e12b3857f
+
 
 
 ### INSTALL & RUN
